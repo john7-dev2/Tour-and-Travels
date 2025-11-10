@@ -1,0 +1,252 @@
+{
+  "destinations": [
+    {
+      "id": "bali",
+      "name": "Bali, Indonesia",
+      "image": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=800&h=600&fit=crop",
+      "description": "Tropical paradise with ancient temples, lush rice terraces, and pristine beaches",
+      "rating": 4.8,
+      "priceRange": "$899 - $2,499",
+      "region": "Asia",
+      "featured": true
+    },
+    {
+      "id": "santorini",
+      "name": "Santorini, Greece",
+      "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&h=600&fit=crop",
+      "description": "Iconic white-washed villages perched on dramatic volcanic cliffs",
+      "rating": 4.9,
+      "priceRange": "$1,299 - $3,999",
+      "region": "Europe",
+      "featured": true
+    },
+    {
+      "id": "maldives",
+      "name": "Maldives",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "description": "Crystal-clear waters and overwater bungalows in tropical paradise",
+      "rating": 4.7,
+      "priceRange": "$2,499 - $8,999",
+      "region": "Asia",
+      "featured": true
+    },
+    {
+      "id": "paris",
+      "name": "Paris, France",
+      "image": "https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=800&h=600&fit=crop",
+      "description": "The City of Light with iconic landmarks, world-class cuisine, and timeless romance",
+      "rating": 4.6,
+      "priceRange": "$1,199 - $4,299",
+      "region": "Europe",
+      "featured": false
+    },
+    {
+      "id": "kyoto",
+      "name": "Kyoto, Japan",
+      "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&h=600&fit=crop",
+      "description": "Ancient temples, traditional gardens, and authentic Japanese culture",
+      "rating": 4.8,
+      "priceRange": "$1,599 - $3,799",
+      "region": "Asia",
+      "featured": true
+    },
+    {
+      "id": "iceland",
+      "name": "Reykjavik, Iceland",
+      "image": "https://images.unsplash.com/photo-1539066834862-2e0c2e2c7d8a?w=800&h=600&fit=crop",
+      "description": "Northern lights, geysers, and dramatic landscapes in the land of fire and ice",
+      "rating": 4.7,
+      "priceRange": "$1,799 - $4,599",
+      "region": "Europe",
+      "featured": false
+    }
+  ],
+  "tours": [
+    {
+      "id": "bali-cultural",
+      "title": "Bali Cultural Discovery",
+      "destination": "Bali, Indonesia",
+      "duration": "8 days",
+      "price": 1299,
+      "originalPrice": 1599,
+      "rating": 4.8,
+      "reviewCount": 124,
+      "image": "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=800&h=600&fit=crop",
+      "difficulty": "Easy",
+      "groupSize": "12-16 people",
+      "highlights": [
+        "Visit ancient temples of Ubud",
+        "Traditional cooking class",
+        "Rice terrace trekking",
+        "Balinese dance performance"
+      ],
+      "inclusions": [
+        "7 nights accommodation",
+        "All meals included",
+        "Professional guide",
+        "Airport transfers",
+        "Cultural activities"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Denpasar",
+          "description": "Airport pickup and transfer to Ubud. Welcome dinner with traditional Balinese cuisine."
+        },
+        {
+          "day": 2,
+          "title": "Ubud Temple Tour",
+          "description": "Visit Tirta Empul temple and Tegallalang Rice Terraces. Afternoon cooking class."
+        },
+        {
+          "day": 3,
+          "title": "Cultural Immersion",
+          "description": "Traditional village visit, wood carving workshop, and evening dance performance."
+        }
+      ],
+      "featured": true
+    },
+    {
+      "id": "santorini-sunset",
+      "title": "Santorini Sunset Romance",
+      "destination": "Santorini, Greece",
+      "duration": "6 days",
+      "price": 1899,
+      "originalPrice": 2299,
+      "rating": 4.9,
+      "reviewCount": 89,
+      "image": "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800&h=600&fit=crop",
+      "difficulty": "Easy",
+      "groupSize": "8-12 people",
+      "highlights": [
+        "Oia sunset viewing",
+        "Wine tasting tour",
+        "Volcanic island cruise",
+        "Traditional Greek cooking"
+      ],
+      "inclusions": [
+        "5 nights luxury accommodation",
+        "Daily breakfast",
+        "Wine tasting experiences",
+        "Sunset cruise",
+        "Airport transfers"
+      ],
+      "featured": true
+    },
+    {
+      "id": "maldives-luxury",
+      "title": "Maldives Luxury Escape",
+      "destination": "Maldives",
+      "duration": "7 days",
+      "price": 3999,
+      "originalPrice": 4999,
+      "rating": 4.7,
+      "reviewCount": 67,
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&h=600&fit=crop",
+      "difficulty": "Relaxing",
+      "groupSize": "2-4 people",
+      "highlights": [
+        "Overwater villa accommodation",
+        "Private beach access",
+        "Snorkeling with marine life",
+        "Spa treatments included"
+      ],
+      "inclusions": [
+        "6 nights overwater villa",
+        "All meals and drinks",
+        "Seaplane transfers",
+        "Water sports activities",
+        "Spa treatments"
+      ],
+      "featured": true
+    },
+    {
+      "id": "kyoto-temples",
+      "title": "Kyoto Temple & Garden Tour",
+      "destination": "Kyoto, Japan",
+      "duration": "5 days",
+      "price": 1699,
+      "originalPrice": 1999,
+      "rating": 4.8,
+      "reviewCount": 156,
+      "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800&h=600&fit=crop",
+      "difficulty": "Moderate",
+      "groupSize": "10-14 people",
+      "highlights": [
+        "Golden Pavilion visit",
+        "Traditional tea ceremony",
+        "Bamboo forest walk",
+        "Geisha district tour"
+      ],
+      "inclusions": [
+        "4 nights traditional ryokan",
+        "Daily breakfast",
+        "Temple entrance fees",
+        "Professional guide",
+        "Cultural experiences"
+      ],
+      "featured": true
+    }
+  ],
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "location": "San Francisco, CA",
+      "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "text": "The Bali cultural tour exceeded all expectations. Our guide was incredibly knowledgeable and the experiences felt authentic, not touristy at all.",
+      "tour": "Bali Cultural Discovery"
+    },
+    {
+      "id": 2,
+      "name": "Michael Rodriguez",
+      "location": "Austin, TX",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "text": "Santorini was absolutely magical. The sunset views from Oia were breathtaking, and the wine tasting was a perfect touch.",
+      "tour": "Santorini Sunset Romance"
+    },
+    {
+      "id": 3,
+      "name": "Emma Thompson",
+      "location": "London, UK",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+      "rating": 5,
+      "text": "The Maldives luxury escape was pure paradise. Every detail was perfectly arranged, from the overwater villa to the incredible snorkeling.",
+      "tour": "Maldives Luxury Escape"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "title": "Hidden Gems of Southeast Asia",
+      "excerpt": "Discover lesser-known destinations that offer authentic cultural experiences away from the crowds.",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=250&fit=crop",
+      "author": "Travel Team",
+      "date": "2024-01-15",
+      "readTime": "5 min read",
+      "category": "Destinations"
+    },
+    {
+      "id": 2,
+      "title": "Sustainable Travel Tips for 2024",
+      "excerpt": "Learn how to minimize your environmental impact while exploring the world's most beautiful destinations.",
+      "image": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=400&h=250&fit=crop",
+      "author": "Eco Travel Guide",
+      "date": "2024-01-10",
+      "readTime": "7 min read",
+      "category": "Travel Tips"
+    },
+    {
+      "id": 3,
+      "title": "Best Photography Spots in Europe",
+      "excerpt": "Capture stunning memories at these Instagram-worthy locations across European destinations.",
+      "image": "https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=400&h=250&fit=crop",
+      "author": "Photo Wanderer",
+      "date": "2024-01-05",
+      "readTime": "6 min read",
+      "category": "Photography"
+    }
+  ]
+}
