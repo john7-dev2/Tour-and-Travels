@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 import { ArrowRight, Star, Users, Shield, Clock, MapPin, Calendar } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
-import toursData from '@/data/carnation-tours.json'
+import toursData from '@/data/sample-tours.json'
 
 export function Home() {
   const { destinations, tours, testimonials, blogPosts } = toursData
@@ -25,10 +25,10 @@ export function Home() {
         <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl font-serif font-bold mb-6 leading-tight animate-fade-in-up">
             Welcome to
-            <span className="block text-gold">Carnation Travels</span>
+            <span className="block text-gold">TravelPro</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-gray-100 max-w-2xl mx-auto leading-relaxed animate-fade-in" style={{animationDelay: '0.2s', opacity: 0, animationFillMode: 'forwards'}}>
-            Your Journey, Our Passion. Established 1995 — Three decades of creating unforgettable travel experiences across India and beyond.
+            Your Journey, Our Passion. Professional travel services — Creating unforgettable travel experiences across India and beyond.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in" style={{animationDelay: '0.4s', opacity: 0, animationFillMode: 'forwards'}}>
             <Button size="xl" className="text-lg bg-carnation hover:bg-carnation/90 text-white transform hover:scale-105 transition-transform duration-300">
@@ -107,10 +107,10 @@ export function Home() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-serif font-bold text-charcoal mb-4">
-              Why Choose Carnation Travels
+              Why Choose TravelPro
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Since 1995, we've been India's trusted travel partner, specializing in cultural tours, business travel, and personalized experiences.
+              We are your trusted travel partner, specializing in cultural tours, business travel, and personalized experiences.
             </p>
           </div>
 
@@ -120,8 +120,8 @@ export function Home() {
                 <div className="w-16 h-16 bg-carnation/10 rounded-full flex items-center justify-center mx-auto mb-4">
                   <MapPin className="h-8 w-8 text-carnation" />
                 </div>
-                <h3 className="text-xl font-semibold text-charcoal mb-3">30 Years Experience</h3>
-                <p className="text-gray-600">Three decades of expertise in creating exceptional travel experiences across India and internationally.</p>
+                <h3 className="text-xl font-semibold text-charcoal mb-3">Professional Experience</h3>
+                <p className="text-gray-600">Professional expertise in creating exceptional travel experiences across India and internationally.</p>
               </CardContent>
             </Card>
 

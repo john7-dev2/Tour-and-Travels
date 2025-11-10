@@ -13,7 +13,7 @@ export function Footer() {
                 <MapPin className="h-5 w-5 text-white" />
               </div>
               <div>
-                <h3 className="text-xl font-serif font-bold">Wanderia</h3>
+                <h3 className="text-xl font-serif font-bold">TravelPro</h3>
                 <p className="text-xs text-gray-400 -mt-1">Your Journey, Our Passion</p>
               </div>
             </div>
@@ -100,7 +100,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm">
-            © 2024 Wanderia Travels. All rights reserved.
+            © 2024 TravelPro. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link to="#" className="text-gray-400 hover:text-coral text-sm transition-colors">Privacy Policy</Link>

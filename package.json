@@ -1,7 +1,7 @@
 {
-  "name": "carnation-travels",
+  "name": "sample-travel-website",
   "version": "1.0.0",
-  "description": "A premium travel & tour website for Carnation Travel Services (P) Ltd. - Established 1995",
+  "description": "A premium travel & tour website template - Perfect for travel agencies and tour operators",
   "private": true,
   "type": "module",
   "scripts": {

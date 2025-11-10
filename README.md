@@ -1,19 +1,19 @@
-# Carnation Travels - Premium Travel Website
+# TravelPro - Premium Travel Website Template
 
-A visually stunning, professional travel & tour website for Carnation Travel Services (P) Ltd. Built with modern web technologies to showcase India's leading travel company established in 1995, specializing in cultural tours, business travel, and corporate event management.
+A visually stunning, professional travel & tour website template perfect for travel agencies and tour operators. Built with modern web technologies to showcase travel services, featuring cultural tours, business travel, and corporate event management capabilities.
 
 ## 🌟 Features
 
 ### Brand Identity
-- **Brand Name**: Carnation Travel Services (P) Ltd.
+- **Brand Name**: TravelPro (Sample Company)
 - **Tagline**: "Your Journey, Our Passion."
-- **Established**: 1995 (30 years of excellence)
+- **Template Type**: Modern travel agency website
 - **Personality**: Professional, trustworthy, experienced, and culturally rich
 
 ### Design System
-- **Primary Color**: Carnation Red (#DC143C)
-- **Secondary Color**: Gold (#DAA520) 
-- **Accent Color**: Bronze (#CD7F32)
+- **Primary Color**: Teal (#14B8A6)
+- **Secondary Color**: Coral (#FF6B6B) 
+- **Accent Color**: Sand (#F4A460)
 - **Background**: Cream (#FFF8DC)
 - **Text**: Charcoal black (#222222)
 
@@ -129,7 +129,7 @@ src/
 1. **Clone the repository**
 ```bash
 git clone <repository-url>
-cd wanderia-travels
+cd sample-travel-website
 ```
 
 2. **Install dependencies**
@@ -305,4 +305,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Wanderia Travels** - Crafted with ❤️ for travelers who seek authentic experiences.
+**TravelPro Template** - Crafted with ❤️ for travel agencies and tour operators seeking a professional web presence.

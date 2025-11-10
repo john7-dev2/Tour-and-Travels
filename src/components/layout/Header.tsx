@@ -109,7 +109,7 @@ export function Header() {
               <MapPin className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-serif font-bold text-charcoal">Carnation Travels</h1>
+              <h1 className="text-2xl font-serif font-bold text-charcoal">TravelPro</h1>
               <p className="text-xs text-gray-600 -mt-1">Your Journey, Our Passion</p>
             </div>
           </Link>

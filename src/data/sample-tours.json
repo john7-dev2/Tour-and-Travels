@@ -230,29 +230,29 @@
   "testimonials": [
     {
       "id": 1,
-      "name": "Priya Sharma",
-      "location": "Mumbai, India",
+      "name": "Sarah Johnson",
+      "location": "New York, USA",
       "image": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
       "rating": 5,
-      "text": "Carnation Travels made our Rajasthan tour absolutely magical. The heritage hotels and desert safari were unforgettable experiences.",
+      "text": "TravelPro made our Rajasthan tour absolutely magical. The heritage hotels and desert safari were unforgettable experiences.",
       "tour": "Royal Rajasthan Heritage Tour"
     },
     {
       "id": 2,
-      "name": "Rajesh Kumar",
-      "location": "Delhi, India",
+      "name": "Michael Chen",
+      "location": "London, UK",
       "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
       "rating": 5,
-      "text": "Excellent service for our corporate conference in Goa. Every detail was perfectly managed by the Carnation team.",
+      "text": "Excellent service for our corporate conference in Goa. Every detail was perfectly managed by the TravelPro team.",
       "tour": "Corporate Events & Conferences"
     },
     {
       "id": 3,
-      "name": "Meera Patel",
-      "location": "Bangalore, India",
+      "name": "Emma Wilson",
+      "location": "Sydney, Australia",
       "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
       "rating": 5,
-      "text": "The Kerala backwaters tour was a perfect blend of relaxation and cultural immersion. Highly recommend Carnation Travels!",
+      "text": "The Kerala backwaters tour was a perfect blend of relaxation and cultural immersion. Highly recommend TravelPro!",
       "tour": "Kerala Backwaters & Spice Tour"
     }
   ],
@@ -262,7 +262,7 @@
       "title": "Discovering India's Hidden Heritage Sites",
       "excerpt": "Explore lesser-known historical monuments and cultural treasures across incredible India.",
       "image": "https://images.unsplash.com/photo-1564507592333-c60657eea523?w=400&h=250&fit=crop",
-      "author": "Carnation Travel Team",
+      "author": "TravelPro Team",
       "date": "2024-01-15",
       "readTime": "6 min read",
       "category": "Heritage"

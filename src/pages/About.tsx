@@ -8,10 +8,10 @@ export function About() {
       <section className="py-24 bg-gradient-to-r from-carnation to-gold text-white">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl md:text-6xl font-serif font-bold mb-6">
-            About Carnation Travels
+            About TravelPro
           </h1>
           <p className="text-xl md:text-2xl max-w-3xl mx-auto leading-relaxed opacity-90">
-            Your Journey, Our Passion. Since 1995, we've been India's leading travel company, specializing in cultural tours, business travel, and personalized experiences across India and beyond.
+            Your Journey, Our Passion. We are a leading travel company, specializing in cultural tours, business travel, and personalized experiences across India and beyond.
           </p>
         </div>
       </section>
@@ -24,10 +24,10 @@ export function About() {
               Our Story
             </h2>
             <p className="text-lg text-gray-700 leading-relaxed mb-8">
-              Established in 1995, Carnation Travel Services (P) Ltd. has been one of India's most upcoming 
-              and leading Travel & Tour management companies. With three decades of experience, we possess 
-              extensive knowledge, expertise, and resources in conceptualizing and executing events, group tours, 
-              business delegations, and conferences both in India and across the world.
+              TravelPro is one of India's most upcoming and leading Travel & Tour management companies. 
+              With extensive experience, we possess comprehensive knowledge, expertise, and resources in 
+              conceptualizing and executing events, group tours, business delegations, and conferences 
+              both in India and across the world.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">
               We are a professionally managed company that puts our clients in focus. Our keywords in everything 

@@ -1,7 +1,7 @@
 import { ArrowRight, Users, MapPin, Phone, Mail, Building, Globe, Award, Clock } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent } from '@/components/ui/card'
-import toursData from '@/data/carnation-tours.json'
+import toursData from '@/data/sample-tours.json'
 
 export function BusinessServices() {
   const { businessServices } = toursData
@@ -16,7 +16,7 @@ export function BusinessServices() {
             Business Travel Services
           </h1>
           <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto opacity-90">
-            Professional event management, corporate travel, and business delegation services since 1995
+            Professional event management, corporate travel, and business delegation services
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="xl" className="bg-white text-carnation hover:bg-gray-100">
@@ -76,7 +76,7 @@ export function BusinessServices() {
               Why Corporate Clients Choose Us
             </h2>
             <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Three decades of excellence in business travel and event management
+              Excellence in business travel and event management
             </p>
           </div>
 
@@ -86,8 +86,8 @@ export function BusinessServices() {
                 <div className="w-16 h-16 bg-carnation/10 rounded-full flex items-center justify-center mx-auto mb-4">
                   <Clock className="h-8 w-8 text-carnation" />
                 </div>
-                <h3 className="text-xl font-semibold text-charcoal mb-3">30 Years Experience</h3>
-                <p className="text-gray-600">Established in 1995, we bring three decades of expertise in business travel management.</p>
+                <h3 className="text-xl font-semibold text-charcoal mb-3">Professional Experience</h3>
+                <p className="text-gray-600">We bring extensive expertise and professional excellence in business travel management.</p>
               </CardContent>
             </Card>
 
@@ -143,7 +143,7 @@ export function BusinessServices() {
             <div className="flex flex-col items-center">
               <Mail className="h-8 w-8 text-carnation mb-4" />
               <h3 className="text-lg font-semibold mb-2">Email Us</h3>
-              <p className="text-gray-300">corporate@carnationtravels.com</p>
+              <p className="text-gray-300">corporate@travelpro.com</p>
             </div>
             <div className="flex flex-col items-center">
               <MapPin className="h-8 w-8 text-carnation mb-4" />
